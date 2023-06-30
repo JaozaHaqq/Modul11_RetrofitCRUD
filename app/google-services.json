@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749636592434",
+    "firebase_url": "https://modul11-jaoza-default-rtdb.firebaseio.com",
+    "project_id": "modul11-jaoza",
+    "storage_bucket": "modul11-jaoza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749636592434:android:923b52fc5179ee38c82d2b",
+        "android_client_info": {
+          "package_name": "com.example.modul11_retrofitcrud_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749636592434-7r2qd38ctruuaui61s9voc97eimr5mvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJ2DgxRDG90j8oRT9sGZwQEb79gNqOqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749636592434-7r2qd38ctruuaui61s9voc97eimr5mvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
